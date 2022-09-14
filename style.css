@@ -549,7 +549,7 @@ span:hover{
 
 /*-----------RESPONSIVE--------------*/
 
-@media screen and (max-width: 770px){
+@media screen and (max-width: 700px){
     .navbar{
     	overflow: hidden;
 	    
