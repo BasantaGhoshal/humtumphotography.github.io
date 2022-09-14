@@ -559,7 +559,7 @@ span:hover{
 
 	}
 	.content ul li img{
-		background-color: white;
+		
 		transform: translateX(-200px);
 	}
 	#sideNav{
@@ -569,7 +569,7 @@ span:hover{
 	}
 	#menuBtn{
 		display: block;
-		right:70px;
+		
 	}
 	nav ul li a{
 		font-size: 1.1rem;
