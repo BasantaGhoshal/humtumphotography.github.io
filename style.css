@@ -552,6 +552,7 @@ span:hover{
 @media screen and (max-width: 770px){
     .navbar{
     	overflow: hidden;
+	padding:0 30px;    
     }
 	.content ul li a{
 		visibility: hidden;
